@@ -1,0 +1,9 @@
+{
+  "slug": "pico-home-hub",
+  "categories": ["code", "make"],
+  "featured": true,
+  "status": "draft",
+  "image": "/projects/pico-home-hub/hero.svg",
+  "pl": { "title": "Pico Home Hub", "summary": "Lokalna automatyka domowa z Raspberry Pi Pico. Od elektroniki do oprogramowania, które łączy całość." },
+  "en": { "title": "Pico Home Hub", "summary": "Local-first home automation with Raspberry Pi Pico. From electronics to the software that brings it all together." }
+}

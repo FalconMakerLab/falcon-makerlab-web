@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://falcon-codes.pl/sitemap.xml

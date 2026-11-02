@@ -1,0 +1,9 @@
+{
+  "slug": "raised-bed-connector",
+  "categories": ["make", "grow"],
+  "featured": false,
+  "status": "draft",
+  "image": "/projects/raised-bed-connector/hero.svg",
+  "pl": { "title": "Łącznik grządki podwyższonej", "summary": "Mały element, praktyczny problem. Projekt łącznika do grządki na styku druku 3D i ogrodu." },
+  "en": { "title": "Raised Bed Connector", "summary": "A small part for a practical problem. A raised bed connector at the intersection of 3D printing and gardening." }
+}
